@@ -77,7 +77,7 @@ canvas {
 #nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   height: 7%;
   width: 100%;
   position: fixed;
